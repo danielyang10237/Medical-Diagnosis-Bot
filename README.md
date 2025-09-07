@@ -36,6 +36,7 @@ This project develops an AI-powered medical diagnosis system that learns to ask 
 ```
 
 **Note datasets are not included in this repo due to size, contact me for data inquiries**
+**Note my trained models stored in .npy are also not included, since the parameter decision tree is too large. Users will have to retrain model locally**
 
 ## How It Works
 
